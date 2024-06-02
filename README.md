@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/sa_fgbg_listener_lego.svg)](https://pub.dartlang.org/packages/sa_fgbg_listener_lego)
 
 # sa_fgbg_listener_lego
-description here
+lego that fg/bg listener
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -17,4 +17,4 @@ lego add sa_fgbg_listener_lego
 ```
 
 ## Usage
-Usage here
+check `lib/app/frontend/listener/flutter_fgbg.dart` for usage.
