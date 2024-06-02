@@ -3,7 +3,7 @@ description: "lego that fg/bg listener"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/sa_fgbg_listener_lego
 
-version: 1.0.1
+version: 1.0.2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -30,7 +30,7 @@ dev_dependencies:
   screenutil_lego: #@add
   bot_toast_lego: #@add
   flutter_fgbg_lego: #@add
-  listener_lego:
+  listener_lego: #@add
 
 flutter:
   assets:
